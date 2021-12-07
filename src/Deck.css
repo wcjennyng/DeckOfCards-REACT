@@ -1,0 +1,27 @@
+.Deck {
+    text-align: center;
+}
+
+.Deck-auto {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-top: 30px;
+}
+
+.Deck-auto:hover {
+    cursor: pointer;
+    background-color: darkgrey;
+    color: black;
+}
+
+.Deck-auto:active, .Deck-auto:focus {
+    outline: none;
+}
+
+.Deck-cardpile {
+    margin-top: 30px;
+}
+
